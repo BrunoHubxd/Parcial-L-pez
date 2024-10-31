@@ -1,0 +1,7 @@
+Cien años de soledad,Gabriel García Márquez,1967,Sudamericana,9780060883287,417
+Don Quijote de la Mancha,Miguel de Cervantes,1605,Espasa Calpe,9788467036001,1056
+1984,George Orwell,1949,Secker & Warburg,9780451524935,328
+Crimen y castigo,Fiódor Dostoyevski,1866,Penguin Classics,9780143107637,671
+La Odisea,Homero,-800,Alianza Editorial,9788420673761,560
+Orgullo y prejuicio,Jane Austen,1813,Thomas Egerton,9780141439518,432
+El gran Gatsby,F. Scott Fitzgerald,1925,Scribner,9780743273565,180
